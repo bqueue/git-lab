@@ -1,6 +1,9 @@
 +git-lab
 
 +=======
+Name: Eamon Barkhordarian
+USC email: ebarkhor@usc.edu
+GitHub Username: eamonb123
 
 +
 
